@@ -8,3 +8,7 @@ The code is organized as follows:
 * **utils.py**: utils for models and optimizer
 
 See demo [here](https://github.com/nikishin-evg/acktr_pytorch/blob/master/example_of_usage.ipynb).
+
+---------------------------------------------------------------------------------------------
+
+### Follow-up: [https://github.com/nikishin-evg/pg_pytorch](https://github.com/nikishin-evg/pg_pytorch)
